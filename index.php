@@ -9,5 +9,9 @@
 <body>
     <h1>belajar truss bos</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo inventore sed repellat nostrum aut non eum nulla sequi, deserunt dolor quibusdam debitis, similique recusandae dolores aperiam consectetur laborum animi perferendis.</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 </html>
